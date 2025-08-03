@@ -35,5 +35,11 @@ generator client{
   ```
 - under the `conect button`, you will get the `connection string` save it with the name `Database_url`. the name is Database_url bcz in the above we are using the name `Database_url`
 - now in the cmd run `npx prisma generated` this created the table whose schema you have written under the prisma.schma file make sure to write the tables schema first before running it 
+  ```cmd
+    npx prisma generated
+  ```
 - migrating the genrated table to the neon use the cmd `npx prisma migrate dev` 
   - give it the name
+### supabase with prisma 
+
+A to z is mention in the documentation 
