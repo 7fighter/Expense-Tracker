@@ -47,3 +47,4 @@ we built a file called checkuser inside the lib this file will check if the user
 
 ### how it is checking 
 it is getting the current user id with the help of a clerk and mathch it with the use id that exiist in our data base if a person exist in the data base then it returns that it exsisit if it does not exisist then it take it to the siginup (registration page) 
+

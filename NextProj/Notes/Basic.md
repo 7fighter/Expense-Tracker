@@ -31,3 +31,12 @@ all the crud operaton api are built under this folder like: get details etc etc 
 
 ### Favcon.con file in the app folder
 favicon.ico is taken by the browser to display it beside the website name in the browser tab, and it is picked automatically. this thing is for improving the sco score 
+
+
+## Graphs 
+
+for the graph we need a package called react chart.js 
+```
+npm i chart.js
+npm i react-chartjs-2
+```
