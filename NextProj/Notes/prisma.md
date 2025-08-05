@@ -43,3 +43,4 @@ generator client{
 ### supabase with prisma 
 
 A to z is mention in the documentation 
+[quik guide link](https://supabase.com/docs/guides/database/prisma)
